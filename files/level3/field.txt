@@ -1,0 +1,35 @@
+32
+28
+30
+bbbbbbbbbbbbbbbbbbbbbbbbbbbb
+btttttttttttbbtttttttttttttb
+btbbbbtbbbbbtbbtbbbbbtbbbbtb
+babbbbtbbbbbtbbtbbbbbtbbbbab
+btbbbbtbbbbbtbbtbbbbbtbbbbtb
+bttttttttttttttttttttttttttb
+btbbbbtbbbbbbbbbbbtbbtbbbbtb
+btbbbbtbbtbbbbbbbbtbbtbbbbtb
+bttttttbbttttbbttttbbttttttb
+bbbbbbtbbbbb bb bbbbbtbbbbbb
+     btbbbbb bb bbbbbtb     
+     btbb          bbtb     
+     btbb          bbtb     
+bbbbbbtbb bb    bb bbtbbbbbb
+      t   b      b   t      
+      t   b      b   t      
+bbbbbbtbb b      b bbtbbbbbb
+     btbb bbbbbbbb bbtb     
+     btbb          bbtb     
+     btbb bbbbbbbb bbtb     
+bbbbbbtbb bbbbbbbb bbtbbbbbb
+bttttttttttttbbttttttttttttb
+btbbbbtbbbbbtbbtbbbbbtbbbbtb
+btbbbbtbbbbbtbbtbbbbbtbbbbtb
+battbbt        tttttttbbttab
+bbbtbbtbbtbbbbbbbbtbbtbbtbbb
+bbbtbbtbbtbbbbbbbbtbbtbbtbbb
+bttttttbbttttbbttttbbt  tttb
+btbbbbbbbbbbtbbtbbbbbbbbbbtb
+btbbbbbbbbbbtbbtbbbbbbbbbbtb
+bttttttttttttttttttttttttttb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbb
